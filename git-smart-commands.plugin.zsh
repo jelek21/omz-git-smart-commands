@@ -1,1 +1,1 @@
-source zsh-git-smart-commands/plugin.zsh
+source ./zsh-git-smart-commands/plugin.zsh
