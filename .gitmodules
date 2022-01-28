@@ -1,0 +1,3 @@
+[submodule "zsh-git-smart-commands"]
+	path = zsh-git-smart-commands
+	url = https://github.com/seletskiy/zsh-git-smart-commands.git
