@@ -3,5 +3,18 @@
 
 This is a rather simple [oh-my-zsh](https://ohmyz.sh/) wrapper to make [zsh-git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) compatible with omz plugins system.
 
+## Usage:
+Please have a look at [zsh-git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands).
+There is further explainations on what this is about and how it works, and even
+good examples of aliasses to make.
+
+I did not add any aliases here on purpose, I do think aliases are a pretty
+personnal thing that I should not force you to use or make...
+
+## Good job!
+You think I did a pretty good job?
+I do not agree and think if someone did a good job in this repo it is
+[seletskiy](https://github.com/seletskiy) so please do not hesitate to congratulate him!
+
 ## License :scroll:
 [MIT Licensed](LICENSE)
