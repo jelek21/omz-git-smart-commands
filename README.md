@@ -3,5 +3,5 @@
 
 This is a rather simple [oh-my-zsh](https://ohmyz.sh/) wrapper to make [zsh-git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) compatible with omz plugins system.
 
-## Licence :scroll:
+## License :scroll:
 [MIT Licensed](LICENSE)
