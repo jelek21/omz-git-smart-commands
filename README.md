@@ -7,7 +7,7 @@ This is a rather simple [oh-my-zsh](https://ohmyz.sh/) wrapper to make [zsh-git-
 To install this plugin to your Oh-My-Zsh repo, run the following command:
 ```zsh
 git clone https://github.com/jelek21/omz-git-smart-commands.git \
-      $HOME/.oh-my-zsh/custom/plugins --recurse-submodules
+      $HOME/.oh-my-zsh/custom/plugins/git-smart-commands --recurse-submodules
 ```
 
 ## Usage:
