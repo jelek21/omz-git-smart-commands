@@ -3,6 +3,13 @@
 
 This is a rather simple [oh-my-zsh](https://ohmyz.sh/) wrapper to make [zsh-git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) compatible with omz plugins system.
 
+## Install:
+To install this plugin to your Oh-My-Zsh repo, run the following command:
+```zsh
+git clone https://github.com/jelek21/omz-git-smart-commands.git \
+      $HOME/.oh-my-zsh/custom/plugins --recurse-submodules
+```
+
 ## Usage:
 Please have a look at [zsh-git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands).
 There is further explainations on what this is about and how it works, and even
